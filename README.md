@@ -1,7 +1,7 @@
-read me text 
+
 # DECISION-TREE-IMPLEMENTATION
 
-*COMPANY*: COOTECH IT SOLUTIONS 
+*COMPANY*: CODTECH IT SOLUTIONS 
 
 *NAME*:Morasa Soniya 
 
@@ -13,7 +13,7 @@ read me text
 
 *MENTOR*: Neela Santhosh Kumar 
 
-#DESCRIOTON
+#DESCRIPTION
 
 A Decision Tree is a supervised machine learning algorithm used for both classification and regression tasks. It works by splitting the dataset into smaller subsets based on feature values, forming a tree-like structure of decisions. Each internal node represents a condition on a feature, each branch represents the outcome of that condition, and each leaf node represents the final prediction.
 In this project, a Decision Tree model is implemented using the Scikit-learn library to classify data from a chosen dataset (Iris dataset in this case). The dataset contains features such as sepal length, sepal width, petal length, and petal width, which are used to predict the class of a flower.
